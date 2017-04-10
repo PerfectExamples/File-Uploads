@@ -1,0 +1,13 @@
+<html>
+	<title>File uploads</title>
+	<body>
+		<h2>File uploads</h2>
+		<form method="POST" enctype="multipart/form-data" action="">
+			File to upload: <input type="file" name="fileup"><br>
+			<input type="submit" value="Upload files now.">
+		</form>
+
+		<h3>Files:</h3>
+		{{#files}}{{name}}<br>{{/files}}
+	</body>
+</html>
