@@ -41,7 +41,7 @@
 
 ## Perfect File Uploads Example Project
 
-This repository holds an example of File Uplaods functionality.
+This repository holds an example of File Uplaods functionality and is a companion example to [https://medium.com/@iamjono/manage-file-uploads-with-server-side-swift-d6f195f77213](https://medium.com/@iamjono/manage-file-uploads-with-server-side-swift-d6f195f77213)
 
 ## Compatibility with Swift
 
